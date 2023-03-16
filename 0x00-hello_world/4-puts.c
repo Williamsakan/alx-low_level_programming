@@ -1,7 +1,7 @@
 #include<stdio.h>
 /**
 	* main -  Entry point
-	* description: program that prints using put followed by a new line 
+	* description: Program that prints with function put followed by a new line
 	* Return: Always 0 (success)
 	*/
 int main(void)
