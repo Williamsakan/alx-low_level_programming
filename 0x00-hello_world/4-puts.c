@@ -1,6 +1,6 @@
 #include<stdio.h>
 /**
-	* main Entry point
+	* main -  Entry point
 	* description: program that prints using put followed by a new line 
 	* Return: Always 0 (success)
 	*/
