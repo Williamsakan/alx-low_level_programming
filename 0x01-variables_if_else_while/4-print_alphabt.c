@@ -3,8 +3,9 @@
 #include<string.h>
 
 /**
-	* main: Print the alphabets in lower case
-	* followed by a new line, except q and e
+	* main: Entry point
+	*
+	* Description: Print the letters in lowercase except q and e
 	* Return: Always 0 (Success)
 	*/
 
