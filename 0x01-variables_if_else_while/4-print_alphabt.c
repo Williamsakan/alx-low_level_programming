@@ -3,8 +3,8 @@
 #include<string.h>
 
 /**
-	* main: Print all the letters except q and e
-	*
+	* main: Prints the alphabets in lower case
+	* followed by a new line
 	* Return: Always 0 (Success)
 	*/
 
