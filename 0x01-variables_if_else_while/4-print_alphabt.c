@@ -6,6 +6,7 @@
 	* main: Entry point
 	*
 	* Description: Print the letters in lowercase except q and e
+	*
 	* Return: Always 0 (Success)
 	*/
 
