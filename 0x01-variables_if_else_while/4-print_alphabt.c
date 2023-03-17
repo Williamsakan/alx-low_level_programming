@@ -3,7 +3,7 @@
 #include<string.h>
 
 /**
-	* main: Description on how to Print the alphabets without q and e.
+	* main: Print the letters except q and e
 	*
 	* Return: Always 0 (Success)
 	*/
