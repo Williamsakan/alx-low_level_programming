@@ -1,24 +1,23 @@
-#include<stdio.h>
-#include<stdlib.h>
-#include<string.h>
+#include <stdio.h>
 
 /**
-	* main: Prints the alphabets in lower case
-	* followed by a new line
-	* Return: Always 0 (Success)
-	*/
-
+  * main - Prints some letters of alphabet
+  *
+  * Return: Always (Success)
+  */
 int main(void)
 {
-	int i;
+	char c;
 
-	for (i = 97; i < 123; i++)
+	for (c = 'a'; c <= 'z'; c++)
 	{
-		if ((i != 101) && (i != 113))
+		if (c != 'e' && c != 'q')
 		{
-			putchar(i);
+			putchar(c);
 		}
 	}
+
 	putchar('\n');
+
 	return (0);
 }
