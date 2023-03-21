@@ -9,6 +9,7 @@
 int main(void)
 {
 	int i, sum;
+
 	sum = 0;
 	
 	for (i = 0; i < 1024; i++)
@@ -22,7 +23,7 @@ int main(void)
 			continue;
 		}
 	}
-	printf("sum of multiples of 3 and 5 below 1024 is %d\n", sum);
+	printf("%d\n", sum);
 
 	return (0);
 }
